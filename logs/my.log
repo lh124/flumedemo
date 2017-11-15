@@ -1,0 +1,21 @@
+2017-11-15 09:24:54,891 INFO [cn.mldn.mldnflume.TestFlume] - [********* www.mldn.cn *********]
+2017-11-15 09:29:05,183 WARN [org.apache.flume.api.NettyAvroRpcClient] - Using default maxIOWorkers
+2017-11-15 09:29:05,570 INFO [cn.mldn.mldnflume.TestFlume] - [********* www.mldn.cn *********]
+2017-11-15 20:49:03,117 WARN [org.apache.flume.api.NettyAvroRpcClient] - Using default maxIOWorkers
+2017-11-15 20:54:13,440 WARN [org.apache.flume.api.NettyAvroRpcClient] - Using default maxIOWorkers
+2017-11-15 21:03:53,008 WARN [org.apache.flume.api.NettyAvroRpcClient] - Using default maxIOWorkers
+2017-11-15 21:03:54,088 INFO [cn.mldn.mldnflume.TestFlume] - [********* hello lh *********]
+2017-11-15 21:04:31,516 WARN [org.apache.flume.api.NettyAvroRpcClient] - Using default maxIOWorkers
+2017-11-15 21:04:32,506 INFO [cn.mldn.mldnflume.TestFlume] - [*********liaohuan *********]
+2017-11-15 21:47:02,588 WARN [org.apache.flume.api.NettyAvroRpcClient] - Using default maxIOWorkers
+2017-11-15 21:47:03,375 INFO [cn.mldn.mldnflume.TestFlume] - [*********liaohuan *********]
+2017-11-15 21:50:46,673 WARN [org.apache.flume.api.NettyAvroRpcClient] - Using default maxIOWorkers
+2017-11-15 21:50:47,510 INFO [cn.mldn.mldnflume.TestFlume] - [*********liaohuan *********]
+2017-11-15 22:55:26,677 WARN [org.apache.flume.api.NettyAvroRpcClient] - Using default maxIOWorkers
+2017-11-15 22:55:28,404 INFO [cn.mldn.mldnflume.TestFlume] - [*********liaohuan *********]
+2017-11-15 22:59:26,348 WARN [org.apache.flume.api.NettyAvroRpcClient] - Using default maxIOWorkers
+2017-11-15 22:59:27,413 INFO [cn.mldn.mldnflume.TestFlume] - [*********liaohuan *********]
+2017-11-15 23:01:52,942 WARN [org.apache.flume.api.NettyAvroRpcClient] - Using default maxIOWorkers
+2017-11-15 23:01:53,987 INFO [cn.mldn.mldnflume.TestFlume] - [*********liaohuan *********]
+2017-11-15 23:04:10,297 WARN [org.apache.flume.api.NettyAvroRpcClient] - Using default maxIOWorkers
+2017-11-15 23:04:11,197 INFO [cn.mldn.mldnflume.TestFlume] - [*********liaohuan *********]
